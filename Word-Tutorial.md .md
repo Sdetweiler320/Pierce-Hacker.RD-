@@ -25,7 +25,7 @@ Then click on the “Header and Footer” tab located at the top left of the pag
 4. Click on “Page Numbers” once more and  a window will open and allow you to Choose where exactly the page numbers will go in your document. 
 5. Then select the desired location of your page numbers and click ”OK”. If you
 
-![Word ScreenShot]()
+![Word ScreenShot](Photos/Screen Shot 2019-05-20 at 10.19.02 AM.png)
 
 
 
