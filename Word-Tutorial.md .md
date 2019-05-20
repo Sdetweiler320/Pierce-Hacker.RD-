@@ -1,4 +1,4 @@
-#Lesson Abstract: 
+# Lesson Abstract: 
 
 	How to Add Formatting features to a Microsoft Word Document
 
@@ -9,7 +9,7 @@ Lesson Objectives/Outcomes:
 2. Student will be able to Place page numbers on the top or bottom of page
 3. Student will be able to place the numbers on the left or right side of page 
 
-##Materials:
+## Materials:
 To complete this this tutorial a student must have word.
 
 ##Overview:
@@ -25,7 +25,7 @@ Then click on the “Header and Footer” tab located at the top left of the pag
 4. Click on “Page Numbers” once more and  a window will open and allow you to Choose where exactly the page numbers will go in your document. 
 5. Then select the desired location of your page numbers and click ”OK”. If you
 
-![Word ScreenShot](https://github.com/Sdetweiler320/Pierce-Hacker.RD-/blob/master/Photos/Screen%20Shot%202019-05-20%20at%2010.19.02%20AM.png?raw=true)
+![Word ScreenShot]()
 
 
 
